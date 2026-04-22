@@ -23,7 +23,7 @@ Ce projet a pour but de modéliser 4 probabilités de succès personnels comme d
 
 ---
 
-[Dashboard](https://candidature-originale-banque-hottinguer-rkhc95mvujdev6odmetagt.streamlit.app/)
+[Dashboard](http://localhost:8501)
 ---
 
 ## Aperçu
