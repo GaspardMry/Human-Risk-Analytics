@@ -44,7 +44,7 @@ Ce projet a pour but de modéliser 4 probabilités de succès personnels comme d
 
 ## 🧬 Les 4 métriques personnelles
 
-- **Probabilité_Village** — Probabilité qu'une jeune crapule de Lasson (village en Normandie) devienne Risk Analyst
+- **Probabilité_Village** — Probabilité qu'un jeune de Lasson (village en Normandie) devienne Risk Analyst
 - **Probabilité_BAC** — Probabilité qu'un étudiant ayant eu 10.25/20 au BAC intègre la Finance de marché
 - **Probabilité_Neuro** — Probabilité qu'un profil neuroatypique performe en Risk
 - **Probabilité_Ecole_NonTarget** — Probabilité qu'un étudiant d'école non-target décroche un stage en Risk
